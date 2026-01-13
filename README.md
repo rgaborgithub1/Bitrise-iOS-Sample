@@ -7,3 +7,5 @@ Working bitrise.yml included in the root of the project
 bitrise.yml builds iOS .ipa and runs tests 
 
 Testing my CI/CD workflow
+
+another commit to start trigger
